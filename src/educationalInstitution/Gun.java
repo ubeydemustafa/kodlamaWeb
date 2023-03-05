@@ -1,4 +1,4 @@
-package src;
+package src.educationalInstitution;
 
 import java.util.List;
 

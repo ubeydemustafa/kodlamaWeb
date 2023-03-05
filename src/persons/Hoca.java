@@ -1,4 +1,4 @@
-package src;
+package src.persons;
 
 public class Hoca implements IPerson{
 

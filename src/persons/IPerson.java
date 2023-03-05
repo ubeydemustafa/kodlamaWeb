@@ -1,4 +1,4 @@
-package src;
+package src.persons;
 
 public interface IPerson {
     String name = "abc";
